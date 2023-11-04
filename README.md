@@ -1,10 +1,10 @@
 <div id="Top"></div>
 
-# 💪 HEALTHIFY - Ứng dụng theo dõi ăn uống và tập luyện
+# HEALTHIFY - Ứng dụng theo dõi ăn uống và tập luyện
 
 Để việc rèn luyện sức khỏe, chăm sóc sức khỏe của mỗi con người chúng ta trở nên thuận tiện và dễ dàng hơn, nhóm đã tiến hành phân tích và triển khai thực hiện một dự án với giao diện hiện đại, thao tác dễ sử dụng phù hợp với đại đa số người dùng mang tên “Ứng dụng theo dõi ăn uống và tập luyện” - Healthify. 
 
-## 📖 Mục lục
+## Mục lục
 
  [I. Mở đầu](#Modau)
 
@@ -30,7 +30,7 @@
 <!-- MỞ ĐẦU -->
 <div id="Modau"></div>
 
-## ✍️ I. Mở đầu
+## I. Mở đầu
 
 Ngày nay, khi cuộc sống con người càng ngày càng được nâng cao thì việc chăm sóc sức khỏe hàng ngày đã trở thành mối quan tâm của nhiều người. Khi mà chúng ta luôn phải lên trên Internet để tìm kiếm những bài tập, lo lắng về lượng calories mà chúng ta tiêu tốn và nạp vào hằng ngày thì “Ứng dụng theo dõi ăn uống và tập luyện” sẽ là một ứng dụng ra đời để hỗ trợ cho những thứ đó. 
 
@@ -39,18 +39,18 @@ Việc theo dõi được chế độ bài tập và dinh dưỡng cũng có th�
 <!-- MÔ TẢ -->
 <div id="Mota"></div>
 
-## 📝 II. Mô tả
+## II. Mô tả
 
 <!-- Ý TƯỞNG -->
 <div id="Ytuong"></div>
 
-### 💁 1. Ý tưởng
+### 1. Ý tưởng
 
 Việc xây dựng “Ứng dụng theo dõi ăn uống và tập luyện” sẽ giúp phần lớn con người chúng ta tiết kiệm được thời gian khi phải đi tìm các nguồn thức ăn, bài tập, số lượng calories tiêu tốn để phù hợp với lộ trình luyện tập của bản thân. Ứng dụng cung cấp một lượng lớn bài tập, chế độ dinh dưỡng để người dùng có thể theo dõi quá trình luyện tập, chế độ dinh dưỡng một cách chuẩn xác và khắt khe hơn. Bên cạnh đó, còn có các chức năng khác nhằm bổ trợ cho việc theo dõi và phục vụ nhu cầu chăm sóc sức khỏe của người dùng. 
 
 <div id="Congnghe"></div>
 
-### 📜  2. Công nghệ
+### 2. Công nghệ
 
   * Hệ thống: Ngôn ngữ lập trình Java, ngôn ngữ XML 
   * IDE: Android Studio
@@ -64,7 +64,7 @@ Việc xây dựng “Ứng dụng theo dõi ăn uống và tập luyện” s�
 
 <div id="Doituongsudung"></div>
 
-### 📌 3. Đối tượng sử dụng
+### 3. Đối tượng sử dụng
 
   * Quản lý (Admin)
   * Người dùng (User)
@@ -72,7 +72,7 @@ Việc xây dựng “Ứng dụng theo dõi ăn uống và tập luyện” s�
 
 <div id="Huongdancaidat"></div>
 
-### 💣 4. Hướng dẫn cài đặt
+### 4. Hướng dẫn cài đặt
 
  * <strong>Bước 1: Clone project https://github.com/vinguyen1907/Java-Healthify.git </strong> 
   
@@ -91,7 +91,7 @@ Việc xây dựng “Ứng dụng theo dõi ăn uống và tập luyện” s�
 
 <div id="Tinhnang"></div>
 
-### 📃 5. Tính năng
+### 5. Tính năng
 
 - Tài khoản
   * Đăng ký
@@ -144,7 +144,7 @@ Việc xây dựng “Ứng dụng theo dõi ăn uống và tập luyện” s�
 <!-- TÁC GIẢ -->
 <div id="Tacgia"></div>
 
-## 👊 III. Tác giả
+## III. Tác giả
 
 * [Nguyễn Tiến Vĩ](https://github.com/vinguyen1907)
   * Vai trò: Team Leader
@@ -157,7 +157,7 @@ Việc xây dựng “Ứng dụng theo dõi ăn uống và tập luyện” s�
 <!-- NGƯỜI HƯỚNG DẪN -->
 <div id="Nguoihuongdan"></div>
 
-## 🙋 IV. Người hướng dẫn
+## IV. Người hướng dẫn
 * Giảng viên: Nguyễn Tấn Toàn
 
 
@@ -165,7 +165,7 @@ Việc xây dựng “Ứng dụng theo dõi ăn uống và tập luyện” s�
 <!-- TỔNG KẾT -->
 <div id="Tongket"></div>
 
-## 🚩 V. Tổng kết
+## V. Tổng kết
 
 * Ưu điểm của đồ án:
   * Cung cấp các công cụ hữu ích để ghi lại thông tin, theo dõi tiến trình, chế độ ăn uống và tập luyện, cung cấp thông báo và nhắc nhở
